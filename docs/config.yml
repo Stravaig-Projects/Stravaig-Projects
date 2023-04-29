@@ -5,6 +5,3 @@ plugins:
 title: Stravaig template
 description: The template docs
 show_downloads: false
-
-nuget:
-  url: https://www.nuget.org/packages/<package-name>
