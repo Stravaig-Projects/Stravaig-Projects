@@ -1,8 +1,3 @@
-# Documentation
+# Stravaig Projects
 
-* [link](actual-docs/index.md)
-
-## Project details
-
-* [Contributors](contributors.md)
-* [Release Notes](release-notes/index.md)
+* [Stravaig.Extensions.Core](Stravaig.Extensions.Core)
